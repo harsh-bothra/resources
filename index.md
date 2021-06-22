@@ -17,64 +17,36 @@ S.NO | Blog  | Category
 ---- | ----- | ---------
 **1** | [Attacking Social Logins: Pre-Authentication Account Takeover](https://hbothra22.medium.com/attacking-social-logins-pre-authentication-account-takeover-790248cfdc3) | Account Takeover
 **2** | [How do I get Started in Cyber Security? — My Perspective & Learning Path!](https://hbothra22.medium.com/how-do-i-get-started-in-cyber-security-my-perspective-learning-path-b53065189ba5) | Beginner, Getting Started
-
-| S.NO  | Blog |
-| ---   | ---  |
-
-| **1** | [Attacking Social Logins: Pre-Authentication Account Takeover](https://hbothra22.medium.com/attacking-social-logins-pre-authentication-account-takeover-790248cfdc3) |
-
-| **2** | [How do I get Started in Cyber Security? — My Perspective & Learning Path!](https://hbothra22.medium.com/how-do-i-get-started-in-cyber-security-my-perspective-learning-path-b53065189ba5) | 
-
-| **3** | [Got Cookies? Exploring Cookie Based Authentication Vulnerabilities in the Wild](https://blog.cobalt.io/got-cookies-cookie-based-authentication-vulnerabilities-in-wild-55fa7c374be0) |
-
-| **4** | [10 Most Common Security Issues Found in Login Functionalities](https://redhuntlabs.com/blog/10-most-common-security-issues-found-in-login-functionalities.html)
-
-**5** | [Bypassing the Protections — MFA Bypass Techniques for the Win](https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab)
-
-**6** | [Scope Based Recon Methodology: Exploring Tactics for Smart Recon](https://blog.cobalt.io/scope-based-recon-smart-recon-tactics-7e72d590eae5)
-
-**7** | [Weak Cryptography in Password Reset to Full Account Takeover](https://infosecwriteups.com/weak-cryptography-in-password-reset-to-full-account-takeover-fc61c75b36b9)
-
-**8** | [Effective Vulnerability Report Writing — Quick Triages to Bonus $$$ (Always a Win)](https://infosecwriteups.com/effective-vulnerability-report-writing-quick-triages-to-bonus-always-a-win-41b37188c63f)
-
-**9** | [eWPTXv2 Exam Review](https://infosecwriteups.com/ewptxv2-exam-review-2646dd145940)
-
-**10** | [Evading Filters to perform the Arbitrary URL Redirection Attack](https://infosecwriteups.com/evading-filters-to-perform-the-arbitrary-url-redirection-attack-cce628b9b6a0)
-
-**11** | [eLearnSecurity eCPPTv2 Exam Review](https://infosecwriteups.com/ecpptv2-exam-review-f7c4efb6f9aa)
-
-**12** | [Misconfigured S3 Bucket Access Controls to Critical Vulnerability](https://infosecwriteups.com/s3-bucket-misconfigured-access-controls-to-critical-vulnerability-6b535e3df9a5)
-
-**13** | [Let’s Bypass CSRF Protection & Password Confirmation to Takeover Victim Accounts :D](https://infosecwriteups.com/lets-bypass-csrf-protection-password-confirmation-to-takeover-victim-accounts-d-4a21297847ff)
-
-**14** | [XSS to Database Credential Leakage & Database Access — Story of total luck!](https://infosecwriteups.com/xss-to-database-credential-leakage-database-access-story-of-total-luck-77c990be8ab2)
-
-**15** | [Found Stored Cross-Site Scripting — What’s Next? — Privilege Escalation like a Boss :D](https://infosecwriteups.com/found-stored-cross-site-scripting-whats-next-privilege-escalation-like-a-boss-d-8fb9e606ce60)
-
-**16** | [Weird Story of Captcha to Rate Limit Bypass](https://infosecwriteups.com/weird-story-of-captcha-to-rate-limit-bypass-c62690db39a)
-
-**17** | [Recon to Sensitive Information Disclosure in Minutes](https://hbothra22.medium.com/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b)
-
-**18** | [From Recon to P1 (Critical) — An Easy Win](https://hbothra22.medium.com/from-recon-to-p1-critical-an-easy-win-6ca93d5b6e6d)
-
-**19** | [Accidental Observation to Critical IDOR](https://infosecwriteups.com/accidental-observation-to-critical-idor-d4d910a855bf)
+**3** | [Got Cookies? Exploring Cookie Based Authentication Vulnerabilities in the Wild](https://blog.cobalt.io/got-cookies-cookie-based-authentication-vulnerabilities-in-wild-55fa7c374be0) | Application Security, Cookie Based Attacks
+**4** | [10 Most Common Security Issues Found in Login Functionalities](https://redhuntlabs.com/blog/10-most-common-security-issues-found-in-login-functionalities.html) | Application Security, Login Functionality
+**5** | [Bypassing the Protections — MFA Bypass Techniques for the Win](https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab) | Bypass Techniques
+**6** | [Scope Based Recon Methodology: Exploring Tactics for Smart Recon](https://blog.cobalt.io/scope-based-recon-smart-recon-tactics-7e72d590eae5) | Recon Methodology
+**7** | [Weak Cryptography in Password Reset to Full Account Takeover](https://infosecwriteups.com/weak-cryptography-in-password-reset-to-full-account-takeover-fc61c75b36b9) | Account Takeover, Weak Cryptography
+**8** | [Effective Vulnerability Report Writing — Quick Triages to Bonus $$$ (Always a Win)](https://infosecwriteups.com/effective-vulnerability-report-writing-quick-triages-to-bonus-always-a-win-41b37188c63f) | Report Writing
+**9** | [eWPTXv2 Exam Review](https://infosecwriteups.com/ewptxv2-exam-review-2646dd145940) | Exam Review 
+**10** | [Evading Filters to perform the Arbitrary URL Redirection Attack](https://infosecwriteups.com/evading-filters-to-perform-the-arbitrary-url-redirection-attack-cce628b9b6a0) | Bypass, Open Redirection
+**11** | [eLearnSecurity eCPPTv2 Exam Review](https://infosecwriteups.com/ecpptv2-exam-review-f7c4efb6f9aa) | Exam Review 
+**12** | [Misconfigured S3 Bucket Access Controls to Critical Vulnerability](https://infosecwriteups.com/s3-bucket-misconfigured-access-controls-to-critical-vulnerability-6b535e3df9a5) | Security Misconfiguration, S3 Bucket
+**13** | [Let’s Bypass CSRF Protection & Password Confirmation to Takeover Victim Accounts :D](https://infosecwriteups.com/lets-bypass-csrf-protection-password-confirmation-to-takeover-victim-accounts-d-4a21297847ff) | CSRF Bypasses
+**14** | [XSS to Database Credential Leakage & Database Access — Story of total luck!](https://infosecwriteups.com/xss-to-database-credential-leakage-database-access-story-of-total-luck-77c990be8ab2) | Cross-Site Scripting
+ **15** | [Found Stored Cross-Site Scripting — What’s Next? — Privilege Escalation like a Boss :D](https://infosecwriteups.com/found-stored-cross-site-scripting-whats-next-privilege-escalation-like-a-boss-d-8fb9e606ce60) | Cross-Site Scripting, Privilege Escalation
+**16** | [Weird Story of Captcha to Rate Limit Bypass](https://infosecwriteups.com/weird-story-of-captcha-to-rate-limit-bypass-c62690db39a) | Captcha Bypass
+**17** | [Recon to Sensitive Information Disclosure in Minutes](https://hbothra22.medium.com/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b) | Recon, Information Disclosure
+**18** | [From Recon to P1 (Critical) — An Easy Win](https://hbothra22.medium.com/from-recon-to-p1-critical-an-easy-win-6ca93d5b6e6d) | Recon
+**19** | [Accidental Observation to Critical IDOR](https://infosecwriteups.com/accidental-observation-to-critical-idor-d4d910a855bf) | IDOR
 
 ___
 
 ## MindMaps 
 
-S.NO | Mind Map 
- --- | --- 
+S.NO | Blog  | Category
+---- | ----- | ---------
 
-**1** |  [2FA Bypass Techniques](https://t.co/HPi5ZP2SKG?amp=1) 
-
-**2** |  [Scope Based Recon](https://www.xmind.net/m/hKKexj/) 
-
-**3** |  [Cookie Based Authentication Vulnerabilities](http://www.xmind.net/m/2FwJ7D)
-
-**4** |  [Unauthenticated JIRA CVEs](https://raw.githubusercontent.com/harsh-bothra/learn365/main/MindMaps/JIRA_CVEs.png) 
-
-**5** |  [Android Application Penetration Testing Checklist](https://www.xmind.net/m/GkgaYH/) 
+**1** |  [2FA Bypass Techniques](https://t.co/HPi5ZP2SKG?amp=1) | Bypass Techniques
+**2** |  [Scope Based Recon](https://www.xmind.net/m/hKKexj/)  | Methodology & Workflow
+**3** |  [Cookie Based Authentication Vulnerabilities](http://www.xmind.net/m/2FwJ7D) | Attacks Checklist
+**4** |  [Unauthenticated JIRA CVEs](https://raw.githubusercontent.com/harsh-bothra/learn365/main/MindMaps/JIRA_CVEs.png) | CVEs List
+**5** |  [Android Application Penetration Testing Checklist](https://www.xmind.net/m/GkgaYH/) | Attacks Checklist
 
 ## Tools 
 
