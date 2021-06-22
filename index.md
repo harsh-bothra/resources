@@ -34,10 +34,10 @@ S.NO | Talks  | Category
 **11** | [Methodologies and approach to start in application security by Harsh Bothra](https://www.youtube.com/watch?v=acvM9ynDXVg&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=4) | Methodology, Informal Discussions
 **12** | [APPSEC AND BUGBOUNTY](https://www.youtube.com/watch?v=mXAB30D56tg&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=5&t=372s) | General Discussion
 **13** | [Offensive Recon - Bug Hunter's Playbook](https://www.youtube.com/watch?v=UrdvDCb4Gz8&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=6) | Recon Methodology
-**14** | [BUG BOUNTY - IDOR CSRF AND ACCOUNT TAKEOVERS with HARSH BOTHRA ||ZERO DAY EP 02](https://www.youtube.com/watch?v=kwePER0er84&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=7&t=1172s) | General Discussions
+**14** | [BUG BOUNTY - IDOR CSRF AND ACCOUNT TAKEOVERS with HARSH BOTHRA - ZERO DAY EP 02](https://www.youtube.com/watch?v=kwePER0er84&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=7&t=1172s) | General Discussions
 **15** | [Busting Your Bug Bounty Doubts With Pratik Dabhi & Harsh Bothra](https://www.youtube.com/watch?v=0v9hibkNuSE&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=8&t=1137s) | General Discussions
 **16** | [Recon VPS Setup](https://www.youtube.com/watch?v=FgaqwttrO20&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=9) | Tutorial
-**17** | [Broken Cryptography & Account Takeover | c0c0n 2020 virtual conference](https://www.youtube.com/watch?v=cpz-Tzb9Jzg&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=12&t=775s) | Broken Cryptography, Account Takeovers
+**17** | [Broken Cryptography & Account Takeover - c0c0n 2020 virtual conference](https://www.youtube.com/watch?v=cpz-Tzb9Jzg&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=12&t=775s) | Broken Cryptography, Account Takeovers
 **18** | [Red Team Village c0c0n 2020 - Harsh Bothra - Offensive & Scope Based Recon](https://www.youtube.com/watch?v=XYrjexqahjY&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=13&t=1262s) | Recon Tool & Methodology
 **19** | [Misconfigured S3 Bucket Permissions Abuse](https://www.youtube.com/watch?v=ZebiOeDIDdE&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=16) | Tutorial, Abusing S3 Buckets
 **20** | [Bug Hunting Tactics](https://www.youtube.com/watch?v=95vCvFJk0Rw&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=17&t=99s) | General Talk
