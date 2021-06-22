@@ -8,8 +8,29 @@ ___
 ___
 
 ## Security Talks 
+S.NO | Talks  | Category
+---- | ----- | ---------
+**1** | [An Interview with Harsh Bothra - hosted by Omar Santos at the Bug Bounty Summit during GrayHat](https://www.youtube.com/watch?v=xE90Op64oI8&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=14) | Interview
+**2** | [Application Testing Methodology and Scope-based Recon by Harsh Bothra](https://www.youtube.com/watch?v=2BPr8dUbRc8&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=15&t=315s) | Application Testing Methodology
+**3** | [Bug Bounty Tactics & Wins for 2021](https://www.youtube.com/watch?v=1eERRnro6Rk&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=18&t=158s) | Application Security
+**4** | [Pentester Diaries Ep2: 2FA Bypass Techniques](https://www.youtube.com/watch?v=ZGwAj4DxH0A&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=19&t=390s) | Technical Discussion
+**5** | [Application Testing Methodology and Scope-based Recon](https://www.youtube.com/watch?v=PaE47rkUhZU&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=21&t=4s) | Methodology & Recon
+**6** | [Exploiting Misconfigured JIRA Instances for $$ with Harsh Bothra](https://www.youtube.com/watch?v=tyGWRjA0JoE&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=22&t=738s) | Exploiting Known Vulnerabilities
+**7** | [Got Cookies? Exploiting Vulnerabilities in Cookie Based Authentication](https://www.youtube.com/watch?v=CE4w8uUi0Mw&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=23&t=108s) | Cookie Based Attacks
+**8** | [Enlightening Talk Series Ep - 2](https://www.youtube.com/watch?v=S3b7HV1yeWw&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=24&t=659s) | General Discussion
+**9** | [Weaponizing Recon - Smashing Applications for Security Vulnerabilities & Profit by Harsh Bothra](https://www.youtube.com/watch?v=ZnugWiOULmw&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=3) | Recon
+**10** | [Bug Bounty insights with Harsh Bothra](https://www.youtube.com/watch?v=RivRjrMyc58&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=20&t=15s) | Methodology
+**11** | [Methodologies and approach to start in application security by Harsh Bothra](https://www.youtube.com/watch?v=acvM9ynDXVg&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=4) | Methodology, Informal Discussions
+**12** | [APPSEC AND BUGBOUNTY](https://www.youtube.com/watch?v=mXAB30D56tg&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=5&t=372s) | General Discussion
+**13** | [Offensive Recon - Bug Hunter's Playbook](https://www.youtube.com/watch?v=UrdvDCb4Gz8&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=6) | Recon Methodology
+**14** | [BUG BOUNTY - IDOR CSRF AND ACCOUNT TAKEOVERS with HARSH BOTHRA ||ZERO DAY EP 02](https://www.youtube.com/watch?v=kwePER0er84&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=7&t=1172s) | General Discussions
+**15** | [Busting Your Bug Bounty Doubts With Pratik Dabhi & Harsh Bothra](https://www.youtube.com/watch?v=0v9hibkNuSE&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=8&t=1137s) | General Discussions
+**16** | [Recon VPS Setup](https://www.youtube.com/watch?v=FgaqwttrO20&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=9) | Tutorial
+**17** | [Broken Cryptography & Account Takeover | c0c0n 2020 virtual conference](https://www.youtube.com/watch?v=cpz-Tzb9Jzg&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=12&t=775s) | Broken Cryptography, Account Takeovers
+**18** | [Red Team Village c0c0n 2020 - Harsh Bothra - Offensive & Scope Based Recon](https://www.youtube.com/watch?v=XYrjexqahjY&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=13&t=1262s) | Recon Tool & Methodology
+**19** | [Misconfigured S3 Bucket Permissions Abuse](https://www.youtube.com/watch?v=ZebiOeDIDdE&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=16) | Tutorial, Abusing S3 Buckets
+**20** | [Bug Hunting Tactics](https://www.youtube.com/watch?v=95vCvFJk0Rw&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=17&t=99s) | General Talk
 
-___
 
 ## Security Blogs abc
 
@@ -35,7 +56,7 @@ S.NO | Blog  | Category
 **18** | [From Recon to P1 (Critical) — An Easy Win](https://hbothra22.medium.com/from-recon-to-p1-critical-an-easy-win-6ca93d5b6e6d) | Recon
 **19** | [Accidental Observation to Critical IDOR](https://infosecwriteups.com/accidental-observation-to-critical-idor-d4d910a855bf) | IDOR
 
-___
+
 
 ## MindMaps 
 
