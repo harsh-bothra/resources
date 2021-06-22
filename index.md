@@ -39,9 +39,8 @@ ___
 
 ## MindMaps 
 
-S.NO | Blog  | Category
----- | ----- | ---------
-
+S.NO | Mindmaps  | Category
+---- | --------- | ---------
 **1** |  [2FA Bypass Techniques](https://t.co/HPi5ZP2SKG?amp=1) | Bypass Techniques
 **2** |  [Scope Based Recon](https://www.xmind.net/m/hKKexj/)  | Methodology & Workflow
 **3** |  [Cookie Based Authentication Vulnerabilities](http://www.xmind.net/m/2FwJ7D) | Attacks Checklist
