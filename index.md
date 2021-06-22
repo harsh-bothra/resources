@@ -13,8 +13,8 @@ ___
 
 ## Security Blogs 
 
-S.NO | Blog
- --- | ---  
+S.NO  | Blog
+---   | ---  
 
 **1** | [Attacking Social Logins: Pre-Authentication Account Takeover](https://hbothra22.medium.com/attacking-social-logins-pre-authentication-account-takeover-790248cfdc3)
 
