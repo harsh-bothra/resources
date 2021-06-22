@@ -6,6 +6,8 @@ This page contains all the resources related to application security and penetra
 
 # Resources 
 
+<br>
+
 ## MindMaps 
 
 S.NO | Mindmaps  | Category
@@ -15,6 +17,9 @@ S.NO | Mindmaps  | Category
 **3** |  [Cookie Based Authentication Vulnerabilities](http://www.xmind.net/m/2FwJ7D) | Attacks Checklist
 **4** |  [Unauthenticated JIRA CVEs](https://raw.githubusercontent.com/harsh-bothra/learn365/main/MindMaps/JIRA_CVEs.png) | CVEs List
 **5** |  [Android Application Penetration Testing Checklist](https://www.xmind.net/m/GkgaYH/) | Attacks Checklist
+**6** |  [XML Attacks](https://t.co/pW2hXk8gyT?amp=1) | Attacks Checklist
+
+<br>
 
 ## Security Talks 
 
@@ -42,6 +47,8 @@ S.NO | Talks  | Category
 **20** | [Bug Hunting Tactics](https://www.youtube.com/watch?v=95vCvFJk0Rw&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=17&t=99s) | General Talk
 
 
+<br>
+
 ## Security Blogs
 
 S.NO | Blog  | Category
@@ -66,12 +73,15 @@ S.NO | Blog  | Category
 **18** | [From Recon to P1 (Critical) — An Easy Win](https://hbothra22.medium.com/from-recon-to-p1-critical-an-easy-win-6ca93d5b6e6d) | Recon
 **19** | [Accidental Observation to Critical IDOR](https://infosecwriteups.com/accidental-observation-to-critical-idor-d4d910a855bf) | IDOR
 
+<br>
 
 ## Learn365 
 
 - Learn365 repository contains all the information shared during Harsh's Learn 365 Challenge. Learn 365 is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life. 
 
 *  Repository Link: https://github.com/harsh-bothra/learn365
+
+<br>
 
 ## Talk Slides
 
@@ -91,18 +101,34 @@ S.NO | Slides  | Category
 **12** |  [Exploiting Misconfigured Jira Instances for $$$](https://speakerdeck.com/harshbothra/exploiting-misconfigured-jira-instances-for) | Exploiting Known Vulnerabilities
 **13** |  [Trending Vulnerabilities with Insights to OWASP TOP 10](https://speakerdeck.com/harshbothra/trending-vulnerabilities-with-insights-to-owasp-top-10) | Vulnerability Trends, OWASP TOP 10, Application Security
 
+<br>
+
 ## Tools 
 
 - Project Bheem: A Simple Recon Wrapper around different tools written in Bash 
 - Project Link: https://github.com/harsh-bothra/Bheem
 
+<br>
 
 ## Other Resources 
 
-Below are my go to resources: 
+> Below are my go to resources: 
 
-[TBA]
+S.NO | Resources| Category
+---- | --------- | ---------
+**1** |  [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Payloads
+**2** |  [HackTricks](https://book.hacktricks.xyz/)  | Learning Guide 
+**3** |  [Cobalt Vulnerability Wiki](https://cobalt.io/vulnerability-wiki) | Vulnerability Wiki
+**4** |  [Portswigger Research](https://portswigger.net/research) | Portswigger Research
+**5** |  [Intigriti BugBytes](https://blog.intigriti.com/category/bugbytes/) | Weekly Collection of Trending Topics
+**6** |  [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) | Testing Guide
+**7** |  [Mobile Security Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/)  | Mobile Security Testing Guide
+**8** |  [Infosec Writeups](https://infosecwriteups.com/) | Writeups
+**9** |  [Awesome Repository](https://github.com/sindresorhus/awesome#security) | Huge Collection of Resources
 
+> There are tons of resources to be added and I'll keep on updating this.
+
+<br>
 
 ## Contact 
 
@@ -111,6 +137,10 @@ Keep in touch:
 * [Twitter](https://twitter.com/harshbothra_)
 * [LinkedIn](https://www.linkedin.com/in/harshbothra)
 * [Instagram](https://www.instagram.com/harshbothra_)
+
+
+<br>
+
 
 ## Side Notes
 
