@@ -3,9 +3,19 @@
 This page contains all the resources related to application security and penetration testing shared by [Harsh Bothra](https://www.twitter.com/harshbothra_). There are some additional resources and references added that one can follow to expand their knoweldge & learning curve. 
 
 **Note:** All the information listed here is for educational purpose and any sort of misuse is not endorsed by the author. Additional resources are sourced from different authors and original rights remain to them and kudos to everyone for sharing valuable knowledge. 
-___
+
 # Resources 
 ___
+
+## MindMaps 
+
+S.NO | Mindmaps  | Category
+---- | --------- | ---------
+**1** |  [2FA Bypass Techniques](https://t.co/HPi5ZP2SKG?amp=1) | Bypass Techniques
+**2** |  [Scope Based Recon](https://www.xmind.net/m/hKKexj/)  | Methodology & Workflow
+**3** |  [Cookie Based Authentication Vulnerabilities](http://www.xmind.net/m/2FwJ7D) | Attacks Checklist
+**4** |  [Unauthenticated JIRA CVEs](https://raw.githubusercontent.com/harsh-bothra/learn365/main/MindMaps/JIRA_CVEs.png) | CVEs List
+**5** |  [Android Application Penetration Testing Checklist](https://www.xmind.net/m/GkgaYH/) | Attacks Checklist
 
 ## Security Talks 
 S.NO | Talks  | Category
@@ -32,7 +42,7 @@ S.NO | Talks  | Category
 **20** | [Bug Hunting Tactics](https://www.youtube.com/watch?v=95vCvFJk0Rw&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=17&t=99s) | General Talk
 
 
-## Security Blogs abc
+## Security Blogs
 
 S.NO | Blog  | Category
 ---- | ----- | ---------
@@ -57,60 +67,37 @@ S.NO | Blog  | Category
 **19** | [Accidental Observation to Critical IDOR](https://infosecwriteups.com/accidental-observation-to-critical-idor-d4d910a855bf) | IDOR
 
 
+## Learn365 
 
-## MindMaps 
+- Learn365 repository contains all the information shared during Harsh's Learn 365 Challenge. Learn 365 is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life. 
 
-S.NO | Mindmaps  | Category
----- | --------- | ---------
-**1** |  [2FA Bypass Techniques](https://t.co/HPi5ZP2SKG?amp=1) | Bypass Techniques
-**2** |  [Scope Based Recon](https://www.xmind.net/m/hKKexj/)  | Methodology & Workflow
-**3** |  [Cookie Based Authentication Vulnerabilities](http://www.xmind.net/m/2FwJ7D) | Attacks Checklist
-**4** |  [Unauthenticated JIRA CVEs](https://raw.githubusercontent.com/harsh-bothra/learn365/main/MindMaps/JIRA_CVEs.png) | CVEs List
-**5** |  [Android Application Penetration Testing Checklist](https://www.xmind.net/m/GkgaYH/) | Attacks Checklist
+- Repository Link: https://github.com/harsh-bothra/learn365
+
+## Talk Slides
+
+[TBA]
 
 ## Tools 
 
-## Learn365 
+- Project Bheem: A Simple Recon Wrapper around different tools written in Bash 
+- Project Link: https://github.com/harsh-bothra/Bheem
+
 
 ## Other Resources 
 
+Below are my go to resources: 
+
+[TBA]
+
+
 ## Contact 
 
+Keep in touch: 
 
-## Welcome to GitHub Pages
+* [Twitter](https://twitter.com/harshbothra_)
+* [LinkedIn](https://www.linkedin.com/in/harshbothra)
+* [Instagram](https://www.instagram.com/harshbothra_)
 
-You can use the [editor on GitHub](https://github.com/harsh-bothra/resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Side Notes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harsh-bothra/resources/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thank you for taking out time to visit and follow above-mentioned resources. If they helped you, do share on Twitter, LinkedIn and on other platforms.
