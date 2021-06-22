@@ -18,6 +18,7 @@ S.NO | Mindmaps  | Category
 **5** |  [Android Application Penetration Testing Checklist](https://www.xmind.net/m/GkgaYH/) | Attacks Checklist
 
 ## Security Talks 
+
 S.NO | Talks  | Category
 ---- | ----- | ---------
 **1** | [An Interview with Harsh Bothra - hosted by Omar Santos at the Bug Bounty Summit during GrayHat](https://www.youtube.com/watch?v=xE90Op64oI8&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=14) | Interview
