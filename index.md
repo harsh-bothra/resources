@@ -13,14 +13,14 @@ ___
 
 ## Security Blogs 
 
-S.NO  | Blog
----   | ---  
+S.NO  | Blog |
+---   | ---  |
 
-**1** | [Attacking Social Logins: Pre-Authentication Account Takeover](https://hbothra22.medium.com/attacking-social-logins-pre-authentication-account-takeover-790248cfdc3)
+**1** | [Attacking Social Logins: Pre-Authentication Account Takeover](https://hbothra22.medium.com/attacking-social-logins-pre-authentication-account-takeover-790248cfdc3) |
 
-**2** | [How do I get Started in Cyber Security? — My Perspective & Learning Path!](https://hbothra22.medium.com/how-do-i-get-started-in-cyber-security-my-perspective-learning-path-b53065189ba5)
+**2** | [How do I get Started in Cyber Security? — My Perspective & Learning Path!](https://hbothra22.medium.com/how-do-i-get-started-in-cyber-security-my-perspective-learning-path-b53065189ba5) | 
 
-**3** | [Got Cookies? Exploring Cookie Based Authentication Vulnerabilities in the Wild](https://blog.cobalt.io/got-cookies-cookie-based-authentication-vulnerabilities-in-wild-55fa7c374be0)
+**3** | [Got Cookies? Exploring Cookie Based Authentication Vulnerabilities in the Wild](https://blog.cobalt.io/got-cookies-cookie-based-authentication-vulnerabilities-in-wild-55fa7c374be0) |
 
 **4** | [10 Most Common Security Issues Found in Login Functionalities](https://redhuntlabs.com/blog/10-most-common-security-issues-found-in-login-functionalities.html)
 
