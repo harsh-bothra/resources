@@ -5,7 +5,6 @@ This page contains all the resources related to application security and penetra
 **Note:** All the information listed here is for educational purpose and any sort of misuse is not endorsed by the author. Additional resources are sourced from different authors and original rights remain to them and kudos to everyone for sharing valuable knowledge. 
 
 # Resources 
-___
 
 ## MindMaps 
 
@@ -72,12 +71,25 @@ S.NO | Blog  | Category
 
 - Learn365 repository contains all the information shared during Harsh's Learn 365 Challenge. Learn 365 is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life. 
 
-- Repository Link: https://github.com/harsh-bothra/learn365
+*  Repository Link: https://github.com/harsh-bothra/learn365
 
 ## Talk Slides
 
-[TBA]
-
+S.NO | Slides  | Category
+---- | --------- | ---------
+**1** |  [Got Cookies? Cookie Based Authentication Vulnerabilities](https://speakerdeck.com/harshbothra/got-cookies-cookie-based-authentication-vulnerabilities) | Cookie Based Attacks
+**2** |  [Bug Hunting Tactics](https://speakerdeck.com/harshbothra/bug-hunting-tactics)  | Methodology & Workflow
+**3** |  [Application Testing Methodology & Scope Based Recon](https://speakerdeck.com/harshbothra/application-testing-methodology-and-scope-based-recon) | Methodology & Workflow
+**4** |  [Pathway to AppSec - DC9140](https://speakerdeck.com/harshbothra/pathway-to-appsec-dc9140) | Pathway to AppSec
+**5** |  [Broken Cryptography & Account Takeovers](https://speakerdeck.com/harshbothra/broken-cryptography-and-account-takeovers) | Broken Cryptgraphy, Account Takeover
+**6** |  [Having Fun with RegEx](https://speakerdeck.com/harshbothra/having-fun-with-regex) | Regular Expressions
+**7** |  [Scope Based Recon for Mundane {Bug Bounty Hunters}](https://speakerdeck.com/harshbothra/scope-based-recon-for-mundane-bug-bounty-hunters)  | Recon
+**8** |  [Offensive Recon for Bug Bounty Hunters](https://speakerdeck.com/harshbothra/offensive-recon-for-bug-bounty-hunters) | Recon
+**9** |  [Offensive Recon - Bug Hunter's Playbook](https://speakerdeck.com/harshbothra/offensive-recon-bug-hunters-playbook) | Recon
+**10** |  [Weaponizing Recon - Smashing Applications for Security Vulnerabilities & Profit](https://speakerdeck.com/harshbothra/weaponizing-recon-smashing-applications-for-security-vulnerabilities-and-profit) | Recon
+**11** |  [Bug Hunting Tactics & Wins for 2021](https://speakerdeck.com/harshbothra/bug-hunting-tactics-and-wins-for-2021) | Methodology & Workflow
+**12** |  [Exploiting Misconfigured Jira Instances for $$$](https://speakerdeck.com/harshbothra/exploiting-misconfigured-jira-instances-for) | Exploiting Known Vulnerabilities
+**13** |  [Trending Vulnerabilities with Insights to OWASP TOP 10](https://speakerdeck.com/harshbothra/trending-vulnerabilities-with-insights-to-owasp-top-10) | Vulnerability Trends, OWASP TOP 10, Application Security
 ## Tools 
 
 - Project Bheem: A Simple Recon Wrapper around different tools written in Bash 
