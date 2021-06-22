@@ -90,6 +90,7 @@ S.NO | Slides  | Category
 **11** |  [Bug Hunting Tactics & Wins for 2021](https://speakerdeck.com/harshbothra/bug-hunting-tactics-and-wins-for-2021) | Methodology & Workflow
 **12** |  [Exploiting Misconfigured Jira Instances for $$$](https://speakerdeck.com/harshbothra/exploiting-misconfigured-jira-instances-for) | Exploiting Known Vulnerabilities
 **13** |  [Trending Vulnerabilities with Insights to OWASP TOP 10](https://speakerdeck.com/harshbothra/trending-vulnerabilities-with-insights-to-owasp-top-10) | Vulnerability Trends, OWASP TOP 10, Application Security
+
 ## Tools 
 
 - Project Bheem: A Simple Recon Wrapper around different tools written in Bash 
