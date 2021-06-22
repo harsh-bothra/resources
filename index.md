@@ -13,8 +13,8 @@ This page contains all the resources related to application security and penetra
 
 ## Security Blogs 
 
-S.NO | Blog | Category
---- | --- | --- 
+S.NO | Blog
+--- | ---  
 **1** |  [Attacking Social Logins: Pre-Authentication Account Takeover](https://hbothra22.medium.com/attacking-social-logins-pre-authentication-account-takeover-790248cfdc3)
 **2** |  [How do I get Started in Cyber Security? — My Perspective & Learning Path!](https://hbothra22.medium.com/how-do-i-get-started-in-cyber-security-my-perspective-learning-path-b53065189ba5)
 **3** |  [Got Cookies? Exploring Cookie Based Authentication Vulnerabilities in the Wild](https://blog.cobalt.io/got-cookies-cookie-based-authentication-vulnerabilities-in-wild-55fa7c374be0)
@@ -22,8 +22,8 @@ S.NO | Blog | Category
 **5** |  [Bypassing the Protections — MFA Bypass Techniques for the Win](https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab)**6** |  [Scope Based Recon Methodology: Exploring Tactics for Smart Recon](https://blog.cobalt.io/scope-based-recon-smart-recon-tactics-7e72d590eae5)**7** |  [Bypassing the Protections — MFA Bypass Techniques for the Win](https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab)**8** |  [Bypassing the Protections — MFA Bypass Techniques for the Win](https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab)**9** |  [Bypassing the Protections — MFA Bypass Techniques for the Win](https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab)**10** |  [Bypassing the Protections — MFA Bypass Techniques for the Win](https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab)**11** |  [Bypassing the Protections — MFA Bypass Techniques for the Win](https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab)**12** |  [Bypassing the Protections — MFA Bypass Techniques for the Win](https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab)**13** |  [Bypassing the Protections — MFA Bypass Techniques for the Win](https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab)**14** |  [Bypassing the Protections — MFA Bypass Techniques for the Win](https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab)
 
 ## MindMaps 
-S.NO | Mind Map | Category
---- | --- | ---
+S.NO | Mind Map 
+--- | --- |
 
 **1** |  [2FA Bypass Techniques](https://t.co/HPi5ZP2SKG?amp=1) | Attack Bypasses Checklist
 
