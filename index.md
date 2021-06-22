@@ -16,7 +16,7 @@ ___
 S.NO | Blog
 ---- | -------------
 **1** | [Attacking Social Logins: Pre-Authentication Account Takeover](https://hbothra22.medium.com/attacking-social-logins-pre-authentication-account-takeover-790248cfdc3)
-Content in the first column | Content in the second column
+**2** | [How do I get Started in Cyber Security? — My Perspective & Learning Path!](https://hbothra22.medium.com/how-do-i-get-started-in-cyber-security-my-perspective-learning-path-b53065189ba5)
 
 | S.NO  | Blog |
 | ---   | ---  |
