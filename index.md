@@ -15,7 +15,7 @@ ___
 
 First Header | Second Header
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+**1** | [Attacking Social Logins: Pre-Authentication Account Takeover](https://hbothra22.medium.com/attacking-social-logins-pre-authentication-account-takeover-790248cfdc3)
 Content in the first column | Content in the second column
 
 | S.NO  | Blog |
