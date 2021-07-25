@@ -18,6 +18,7 @@ S.NO | Mindmaps  | Category
 **4** |  [Unauthenticated JIRA CVEs](https://raw.githubusercontent.com/harsh-bothra/learn365/main/MindMaps/JIRA_CVEs.png) | CVEs List
 **5** |  [Android Application Penetration Testing Checklist](https://www.xmind.net/m/GkgaYH/) | Attacks Checklist
 **6** |  [XML Attacks](https://t.co/pW2hXk8gyT?amp=1) | Attacks Checklist
+**7** |  [Common Vulnerabilities on Forget Password](https://t.co/y8baFzYkEK?amp=1) | Attacks Checklist
 
 <br>
 
@@ -137,6 +138,8 @@ Keep in touch:
 * [Twitter](https://twitter.com/harshbothra_)
 * [LinkedIn](https://www.linkedin.com/in/harshbothra)
 * [Instagram](https://www.instagram.com/harshbothra_)
+* [Email](hbothra22@gmail.com)
+
 
 
 <br>
