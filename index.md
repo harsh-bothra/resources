@@ -138,7 +138,7 @@ Keep in touch:
 * [Twitter](https://twitter.com/harshbothra_)
 * [LinkedIn](https://www.linkedin.com/in/harshbothra)
 * [Instagram](https://www.instagram.com/harshbothra_)
-* [Email](hbothra22@gmail.com)
+
 
 
 
