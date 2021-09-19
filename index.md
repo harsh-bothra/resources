@@ -20,6 +20,7 @@ S.NO | Mindmaps  | Category
 **6** |  [XML Attacks](https://t.co/pW2hXk8gyT?amp=1) | Attacks Checklist
 **7** |  [Common Vulnerabilities on Forget Password](https://t.co/y8baFzYkEK?amp=1) | Attacks Checklist
 **8** |  [Vulnerability Checklist for SAML](https://t.co/xhTNeT9P5D?amp=1) | Attacks Checklist
+
 <br>
 
 ## Security Talks 
