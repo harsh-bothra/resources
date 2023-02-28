@@ -10,7 +10,7 @@ This page contains all the resources related to application security and penetra
 ## DO YOU WANT TO GET YOU APPLICATIONS PENTESTED OR NEED SOME AMAZING CONTENT FOR YOUR BLOG? 
 ## - Reach out at **hbothra22@gmail.com**
 
-![Promo](../assets/promo.mp4)
+![Promo](/assets/promo.mp4)
 
 
 
