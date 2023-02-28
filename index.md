@@ -4,9 +4,24 @@ This page contains all the resources related to application security and penetra
 
 **Note:** All the information listed here is for educational purpose and any sort of misuse is not endorsed by the author. Additional resources are sourced from different authors and original rights remain to them and kudos to everyone for sharing valuable knowledge. 
 
+
+# DO YOU WANT TO GET YOU APPLICATIONS PENTESTED OR NEED SOME AMAZING CONTENT FOR YOUR BLOG? - Reach out at **hbothra22@gmail.com**
+
+![Promo](promo.mp4)
+
+
+
 # Resources 
 
 <br>
+
+## SecurityStories Series
+
+- SecurityStories - 52 Weeks, 52 Stories is a new initiative to share stories of cyber security professionals who are spread across the globe to tell the world about how they started, what were the blockers in their journey, where they were vs where they are now and likewise, interesting stuff. This is to inspire the world and share the less-known stories of cyber security professionals.
+
+
+*  Repository Link: https://github.com/harsh-bothra/SecurityStories
+
 
 ## SecurityExplained Series
 
@@ -27,6 +42,28 @@ S.NO | Mindmaps  | Category
 **7** |  [Common Vulnerabilities on Forget Password](https://t.co/y8baFzYkEK?amp=1) | Attacks Checklist
 **8** |  [Vulnerability Checklist for SAML](https://t.co/xhTNeT9P5D?amp=1) | Attacks Checklist
 **9** |  [Account Takeover Methodologies](https://www.xmind.net/m/M3WEqG) | Attacks Checklist
+
+<br>
+
+## Blog Written for Organizations: 
+S.NO | Blog  | Category | Organization
+---- | ----- | --------- | ------------
+**1** | [Bypassing the Protections — MFA Bypass Techniques for the Win](https://www.cobalt.io/blog/bypassing-the-protections-mfa-bypass-techniques-for-the-win) | 2FA Bypass | Cobalt
+**2** | [Scope Based Recon Methodology: Exploring Tactics for Smart Recon](https://www.cobalt.io/blog/scope-based-recon-smart-recon-tactics) | Recon | Cobalt
+**3** | [Got Cookies? Exploring Cookie Based Authentication Vulnerabilities in the Wild](https://www.cobalt.io/blog/got-cookies-cookie-based-authentication-vulnerabilities-in-wild) | Attacks in Cookies | Cobalt
+**4** | [Graph Query Language Explained](https://www.cobalt.io/blog/graph-query-language-explained) | GraphQL | Cobalt
+**5** | [Secure Software Best Practices: Protect Against Server-Side Request Forgery](https://www.cobalt.io/blog/protect-against-server-side-request-forgery) | SSRF | Cobalt
+**6** | [Pentester’s Guide to XPATH Injection](https://www.cobalt.io/blog/pentesters-guide-to-xpath-injection) | XPATH Injection | Cobalt
+**7** | [Introduction to LDAP Injection Attack](https://www.cobalt.io/blog/introduction-to-ldap-injection-attack) | LDAP Injection | Cobalt
+**8** | [Hacking Web Cache - Deep Dive in Web Cache Poisoning Attacks](https://www.cobalt.io/blog/hacking-web-cache-deep-dive-in-web-cache-poisoning-attacks) | Web Cache Poisoning | Cobalt
+**9** | [Introduction to Command Injection Vulnerability](https://www.cobalt.io/blog/introduction-to-command-injection-vulnerability) | Command Injection | Cobalt
+**10** | [A Pentester’s Guide to Prototype Pollution Attacks](https://www.cobalt.io/blog/a-pentesters-guide-to-prototype-pollution-attacks) | Prototype Pollution | Cobalt
+**11** | [A Dive into Client-Side Desync Attacks](https://www.cobalt.io/blog/a-dive-into-client-side-desync-attacks) | Client Side Desync | Cobalt
+**12** | [Hunting for Broken Link Hijacking (BLH)](https://www.cobalt.io/blog/hunting-for-broken-link-hijacking-blh) | Broken Link Hijacking | Cobalt
+**13** | [Introduction to Serverless Vulnerabilities](https://www.cobalt.io/blog/introduction-to-serverless-vulnerabilities) | Serverless Vulnerabilities | Cobalt
+**14** | [Web Socket Vulnerabilites](https://www.cobalt.io/blog/web-socket-vulnerabilites) | Web Socket | Cobalt
+**15** | [Implementing Nuclei into your GitHub CI/CD pipelines](https://blog.projectdiscovery.io/implementing-nuclei-into-your-github-ci-cd-for-scanning-live-web-applications/) | Nuclei GitHub Integration Guide | ProjectDiscovery
+
 
 <br>
 
@@ -54,7 +91,9 @@ S.NO | Talks  | Category
 **18** | [Red Team Village c0c0n 2020 - Harsh Bothra - Offensive & Scope Based Recon](https://www.youtube.com/watch?v=XYrjexqahjY&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=13&t=1262s) | Recon Tool & Methodology
 **19** | [Misconfigured S3 Bucket Permissions Abuse](https://www.youtube.com/watch?v=ZebiOeDIDdE&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=16) | Tutorial, Abusing S3 Buckets
 **20** | [Bug Hunting Tactics](https://www.youtube.com/watch?v=95vCvFJk0Rw&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=17&t=99s) | General Talk
+**21** | [Bug Bounty Show at BSides Ahmedabad 2022 feat. Harsh Bothra](https://www.youtube.com/watch?v=nz6jMzaxl1c&list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0&index=25&t=591s) | Conference Talk - Account Takeovers
 
+**All Security Talks Playlist:** https://www.youtube.com/playlist?list=PLYn5_MxRvV-fxPL90I-uebXQzQBXfIaY0
 
 <br>
 
@@ -121,7 +160,7 @@ S.NO | Slides  | Category
 
 ## Other Resources 
 
-> Below are my go to resources: 
+> Below are my go to resources that I follow when doing Bug Bounty & Penetration Testing: 
 
 S.NO | Resources| Category
 ---- | --------- | ---------
