@@ -4,8 +4,10 @@ This page contains all the resources related to application security and penetra
 
 **Note:** All the information listed here is for educational purpose and any sort of misuse is not endorsed by the author. Additional resources are sourced from different authors and original rights remain to them and kudos to everyone for sharing valuable knowledge. 
 
+<br>
 
-# DO YOU WANT TO GET YOU APPLICATIONS PENTESTED OR NEED SOME AMAZING CONTENT FOR YOUR BLOG? - Reach out at **hbothra22@gmail.com**
+
+## DO YOU WANT TO GET YOU APPLICATIONS PENTESTED OR NEED SOME AMAZING CONTENT FOR YOUR BLOG? - Reach out at **hbothra22@gmail.com**
 
 ![Promo](../assets/promo.mp4)
 
