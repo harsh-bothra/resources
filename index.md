@@ -7,7 +7,7 @@ This page contains all the resources related to application security and penetra
 
 # DO YOU WANT TO GET YOU APPLICATIONS PENTESTED OR NEED SOME AMAZING CONTENT FOR YOUR BLOG? - Reach out at **hbothra22@gmail.com**
 
-![Promo](promo.mp4)
+![Promo](../assets/promo.mp4)
 
 
 
@@ -46,6 +46,7 @@ S.NO | Mindmaps  | Category
 <br>
 
 ## Blog Written for Organizations: 
+
 S.NO | Blog  | Category | Organization
 ---- | ----- | --------- | ------------
 **1** | [Bypassing the Protections — MFA Bypass Techniques for the Win](https://www.cobalt.io/blog/bypassing-the-protections-mfa-bypass-techniques-for-the-win) | 2FA Bypass | Cobalt
